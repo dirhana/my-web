@@ -31069,12 +31069,7 @@
                         float: "right"
                     },
                     className: "nav-main-link-icon si si-book-open"
-                })), l.a.createElement("i", {
-                    style: {
-                        float: "right"
-                    },
-                    className: "nav-main-link-icon si si-feed"
-                }))), l.a.createElement("div", {
+                })), l.a.createElement("div", {
                     className: "education-shortcuts-item",
                     onClick: ()=>h.a.push(Object(p["m"])(d) ? "/plan/" + d.plan_id : "/plan")
                 }, l.a.createElement("div", null, Object(b["formatMessage"])({
