@@ -41281,7 +41281,7 @@
                                     });
                                 case 3:
                                     return e.next = 5,
-                                    Object(i["a"])("/guest/comm/config");
+                                    Object(i["a"])("/GuestCommConfig");
                                 case 5:
                                     return r = e.sent,
                                     e.next = 8,
@@ -44886,7 +44886,7 @@
                                     return n.abrupt("return");
                                 case 4:
                                     return n.next = 6,
-                                    Object(a["a"])("/userCheckLogin");
+                                    Object(a["a"])("/UserCheckLogin");
                                 case 6:
                                     if (i = n.sent,
                                     200 === i.code) {
@@ -57424,7 +57424,7 @@
                                     },
                                     l && (p["recaptcha_data"] = l),
                                     n.next = 8,
-                                    Object(i["b"])("/passport/auth/register", p);
+                                    Object(i["b"])("/UserRegister", p);
                                 case 8:
                                     return d = n.sent,
                                     n.next = 11,
@@ -57473,7 +57473,7 @@
                                     a && (l["recaptcha_data"] = a),
                                     l["isforget"] = e.isforget,
                                     n.next = 9,
-                                    Object(i["b"])("/passport/comm/sendEmailVerify", l);
+                                    Object(i["b"])("/SendEmail", l);
                                 case 9:
                                     return f = n.sent,
                                     n.next = 12,
