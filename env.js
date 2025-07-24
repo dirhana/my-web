@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: '高速 | 匿名 | 稳定 | 实惠 | 保障',
   // API
-  host: 'https://1322253634-0oyi7dn0aa.ap-shanghai.tencentscf.com',
+  host: 'https://1322253634-2ihedq5qsw.ap-shanghai.tencentscf.com',
   // 主题
   theme: {
     sidebar: 'dark',
