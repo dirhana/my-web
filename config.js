@@ -2,6 +2,7 @@
  * 外部配置文件
  * index.html 中可以搜索 EZ 将其替换为您的网站名称
  * logo 摆放位置为 images/logo.png
+ *
  */
 
 window.EZ_CONFIG = {
